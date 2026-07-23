@@ -1,7 +1,26 @@
-## Hi there 👋
+## Yaho-Yaho! 👋
 
+ I'm Leah, streamer and CS major at university.
+
+ Currently I learn:
+ 1. Basics of frontend and backend
+ 2. Git and dockers
+ 3. ... and so on! Ye, just started... after 2 years in uni...
+
+ Currently I build:
+ 1. My own website!
+ 2. Small apps to make my desktop aesthetic~
+
+ Tools and tech:
+ Design: Photoshop, Figma
+ Code: HTML, CSS, Typescript
+---
+
+ A few facts about me:
+ 1. I am a vtuber!
+ 2. I love studying everything, from tech to medicine to psychology;
+ 3. I'm currently studying for a second diploma in engineer translator's cources alonng with main diploma.
 <!--
-**LeahTheFatui/LeahTheFatui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
