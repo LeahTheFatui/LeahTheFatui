@@ -1,6 +1,9 @@
 ## Yaho-Yaho! 👋
 
  I'm Leah, streamer and CS major at university.
+ <div>
+  <img src="https://img.shields.io/badge/Twitch-purple">
+ </div>
 
  Currently I learn:
  1. Basics of frontend and backend
