@@ -2,7 +2,7 @@
 
  I'm Leah, streamer and CS major at university.
  <div>
-  <img src="https://img.shields.io/badge/Twitch-purple">
+  <a href="https://www.twitch.tv/leah_astera"><img src="https://img.shields.io/badge/Twitch-purple"></a>
  </div>
 
  Currently I learn:
